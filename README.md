@@ -55,21 +55,21 @@ The web dashboard is built using ReactJS and displays:
 
 ## 📁 Project Structure
 
-SafeDrive-IoT/
-│
-├── documentation/
-│ └── SafeDrive_Report.pdf
-│
-├── arduino-code/
-│ └── safedrive.ino
-│
-├── web-dashboard/
-│ ├── App.js
-│ ├── App.css
-│
-├── diagrams/
-├── images/
-└── README.md
+SafeDrive-IoT/  
+│  
+├── documentation/  
+│ └── SafeDrive_Report.pdf  
+│  
+├── arduino-code/  
+│ └── safedrive.ino  
+│  
+├── web-dashboard/  
+│ ├── App.js  
+│ ├── App.css  
+│  
+├── diagrams/  
+├── images/  
+└── README.md  
 
 
 ---
